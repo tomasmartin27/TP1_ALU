@@ -1,0 +1,10 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+switch = xxxxxxxx, botones = xxx, leds = xxxxxxxx                   0
+switch = xxxxxxxx, botones = xxx, leds = 0xxxxxx0                   5
+switch = xxxxxxxx, botones = xxx, leds = 00000000                   5
+switch = 00111001, botones = 001, leds = 00000000                  95
+switch = 10110101, botones = 010, leds = 00000000                 133
+switch = 00100111, botones = 100, leds = 00000000                 171
+Error en operacion 00100111 en tiempo                  217 ns
+switch = 00100111, botones = 100, leds = 01001010                 217

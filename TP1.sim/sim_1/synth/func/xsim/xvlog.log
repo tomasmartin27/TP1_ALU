@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/TP1/TP1.sim/sim_1/synth/func/xsim/Contro_tb_func_synth.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module ALU
-INFO: [VRFC 10-311] analyzing module Control
-INFO: [VRFC 10-311] analyzing module glbl
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/TP1/TP1.srcs/sim_1/new/Contro_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module Contro_tb

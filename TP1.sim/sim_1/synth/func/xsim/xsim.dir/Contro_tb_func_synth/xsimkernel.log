@@ -1,7 +1,0 @@
-Running: xsim.dir/Contro_tb_func_synth/xsimk.exe -simmode gui -wdb Contro_tb_func_synth.wdb -simrunnum 0 -socket 54774
-Design successfully loaded
-Design Loading Memory Usage: 6136 KB (Peak: 6136 KB)
-Design Loading CPU Usage: 77 ms
-Simulation completed
-Simulation Memory Usage: 7088 KB (Peak: 7088 KB)
-Simulation CPU Usage: 108 ms

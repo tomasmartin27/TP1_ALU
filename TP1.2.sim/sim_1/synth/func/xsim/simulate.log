@@ -1,0 +1,944 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+a = 00000000, b = 00000000, op = 000000, out = 00000000                   0
+a = 01010001, b = 00101001, op = 100110, out = 01111000                   1
+Error en operacion 100101 en tiempo                    3 ns
+a = 01010011, b = 00000111, op = 100101, out = 01010111                   3
+Error en operacion 100110 en tiempo                    5 ns
+a = 01010101, b = 00010101, op = 100110, out = 01000000                   5
+Error en operacion 000011 en tiempo                    7 ns
+a = 01010010, b = 00100101, op = 000011, out = 00000000                   7
+Error en operacion 100101 en tiempo                    9 ns
+a = 01001111, b = 00010101, op = 100101, out = 01011111                   9
+Error en operacion 100000 en tiempo                   11 ns
+a = 01011111, b = 00101111, op = 100000, out = 10001110                  11
+Error en operacion 000011 en tiempo                   13 ns
+a = 01001110, b = 00111110, op = 000011, out = 00000000                  13
+Error en operacion 000010 en tiempo                   15 ns
+a = 01010000, b = 01000100, op = 000010, out = 00000000                  15
+a = 01011011, b = 01010100, op = 000010, out = 00000000                  17
+a = 01001010, b = 01010001, op = 000011, out = 00000000                  19
+a = 01100011, b = 01000000, op = 100010, out = 00100011                  21
+Error en operacion 100101 en tiempo                   23 ns
+a = 10000000, b = 01010000, op = 100101, out = 11010000                  23
+Error en operacion 100100 en tiempo                   25 ns
+a = 01011101, b = 01010010, op = 100100, out = 01010000                  25
+Error en operacion 000011 en tiempo                   27 ns
+a = 01101101, b = 01001010, op = 000011, out = 00000000                  27
+Error en operacion 000010 en tiempo                   29 ns
+a = 01101111, b = 01001100, op = 000010, out = 00000000                  29
+a = 01101011, b = 01001110, op = 100000, out = 10111001                  31
+Error en operacion 000011 en tiempo                   33 ns
+a = 01101001, b = 01011110, op = 000011, out = 00000000                  33
+Error en operacion 100111 en tiempo                   35 ns
+a = 01101011, b = 01001000, op = 100111, out = 10010100                  35
+Error en operacion 000010 en tiempo                   37 ns
+a = 01011011, b = 01011000, op = 000010, out = 00000000                  37
+Error en operacion 100110 en tiempo                   39 ns
+a = 01110111, b = 01011010, op = 100110, out = 00101101                  39
+Error en operacion 100111 en tiempo                   41 ns
+a = 01100111, b = 01001010, op = 100111, out = 10010000                  41
+Error en operacion 100101 en tiempo                   43 ns
+a = 01100101, b = 01010100, op = 100101, out = 01110101                  43
+Error en operacion 100100 en tiempo                   45 ns
+a = 10000011, b = 01010110, op = 100100, out = 00000010                  45
+Error en operacion 111111 en tiempo                   47 ns
+a = 10010010, b = 01000110, op = 111111, out = 00000000                  47
+Error en operacion 100010 en tiempo                   49 ns
+a = 01111101, b = 01010110, op = 100010, out = 00100111                  49
+Error en operacion 100100 en tiempo                   51 ns
+a = 01111111, b = 01010010, op = 100100, out = 01010010                  51
+Error en operacion 100010 en tiempo                   53 ns
+a = 10000001, b = 01100111, op = 100010, out = 00011010                  53
+Error en operacion 100010 en tiempo                   55 ns
+a = 10001011, b = 01101001, op = 100010, out = 00100010                  55
+Error en operacion 100000 en tiempo                   57 ns
+a = 01111011, b = 10010100, op = 100000, out = 00001111                  57
+Error en operacion 100100 en tiempo                   59 ns
+a = 10100010, b = 01111111, op = 100100, out = 00100010                  59
+Error en operacion 100110 en tiempo                   61 ns
+a = 10010010, b = 10000001, op = 100110, out = 00010011                  61
+Error en operacion 100111 en tiempo                   63 ns
+a = 10100000, b = 10000011, op = 100111, out = 01011100                  63
+Error en operacion 100100 en tiempo                   65 ns
+a = 10011110, b = 10001101, op = 100100, out = 10001100                  65
+Error en operacion 100100 en tiempo                   67 ns
+a = 10001110, b = 01111101, op = 100100, out = 00001100                  67
+Error en operacion 100111 en tiempo                   69 ns
+a = 10011100, b = 10001101, op = 100111, out = 01100010                  69
+Error en operacion 100000 en tiempo                   71 ns
+a = 10101100, b = 01111101, op = 100000, out = 00101001                  71
+Error en operacion 100100 en tiempo                   73 ns
+a = 10001010, b = 10001011, op = 100100, out = 10001010                  73
+Error en operacion 111111 en tiempo                   75 ns
+a = 10011010, b = 10001001, op = 111111, out = 00000000                  75
+Error en operacion 100000 en tiempo                   77 ns
+a = 10101000, b = 01111001, op = 100000, out = 00100001                  77
+Error en operacion 100100 en tiempo                   79 ns
+a = 10011000, b = 01111011, op = 100100, out = 00011000                  79
+Error en operacion 000011 en tiempo                   81 ns
+a = 10010110, b = 10010111, op = 000011, out = 11111111                  81
+Error en operacion 000010 en tiempo                   83 ns
+a = 10011000, b = 01110101, op = 000010, out = 00000000                  83
+Error en operacion 100000 en tiempo                   85 ns
+a = 10010100, b = 10000101, op = 100000, out = 00011001                  85
+Error en operacion 000011 en tiempo                   87 ns
+a = 10100100, b = 10000111, op = 000011, out = 11111111                  87
+Error en operacion 100111 en tiempo                   89 ns
+a = 10010100, b = 10000011, op = 100111, out = 01101000                  89
+Error en operacion 100101 en tiempo                   91 ns
+a = 10101110, b = 10011000, op = 100101, out = 10111110                  91
+Error en operacion 000011 en tiempo                   93 ns
+a = 10111100, b = 10011010, op = 000011, out = 11111111                  93
+Error en operacion 100111 en tiempo                   95 ns
+a = 10111110, b = 10001001, op = 100111, out = 01000000                  95
+Error en operacion 111111 en tiempo                   97 ns
+a = 11000001, b = 10100110, op = 111111, out = 00000000                  97
+Error en operacion 000010 en tiempo                   99 ns
+a = 11000011, b = 10010110, op = 000010, out = 00000000                  99
+a = 11011111, b = 10110000, op = 000011, out = 11111111                 101
+Error en operacion 000011 en tiempo                  103 ns
+a = 11001111, b = 10111110, op = 000011, out = 11111111                 103
+a = 10111111, b = 11000000, op = 000010, out = 00000000                 105
+Error en operacion 000011 en tiempo                  107 ns
+a = 11011011, b = 10101100, op = 000011, out = 11111111                 107
+Error en operacion 000011 en tiempo                  109 ns
+a = 11001011, b = 10101110, op = 000011, out = 11111111                 109
+a = 11001101, b = 10111100, op = 000010, out = 00000000                 111
+Error en operacion 100100 en tiempo                  113 ns
+a = 11001011, b = 10111010, op = 100100, out = 10001010                 113
+Error en operacion 000011 en tiempo                  115 ns
+a = 11000111, b = 10101010, op = 000011, out = 11111111                 115
+Error en operacion 100010 en tiempo                  117 ns
+a = 11010111, b = 10111010, op = 100010, out = 00011101                 117
+Error en operacion 100100 en tiempo                  119 ns
+a = 11011001, b = 10110110, op = 100100, out = 10010000                 119
+Error en operacion 111111 en tiempo                  121 ns
+a = 10110110, b = 10111000, op = 111111, out = 00000000                 121
+Error en operacion 100010 en tiempo                  123 ns
+a = 11010011, b = 10110110, op = 100010, out = 00011101                 123
+Error en operacion 100100 en tiempo                  125 ns
+a = 11010101, b = 10100101, op = 100100, out = 10000101                 125
+Error en operacion 111111 en tiempo                  127 ns
+a = 11000100, b = 10110100, op = 111111, out = 00000000                 127
+Error en operacion 100111 en tiempo                  129 ns
+a = 11000010, b = 11011011, op = 100111, out = 00100100                 129
+Error en operacion 100000 en tiempo                  131 ns
+a = 11010001, b = 10111000, op = 100000, out = 10001001                 131
+Error en operacion 000011 en tiempo                  133 ns
+a = 11100001, b = 11001000, op = 000011, out = 11111111                 133
+Error en operacion 100100 en tiempo                  135 ns
+a = 00000100, b = 11010111, op = 100100, out = 00000100                 135
+Error en operacion 100101 en tiempo                  137 ns
+a = 11110100, b = 11000110, op = 100101, out = 11110110                 137
+Error en operacion 100100 en tiempo                  139 ns
+a = 00010000, b = 11000100, op = 100100, out = 00000000                 139
+Error en operacion 100100 en tiempo                  141 ns
+a = 00000000, b = 11010011, op = 100100, out = 00000000                 141
+a = 00000010, b = 11000010, op = 100101, out = 11000010                 143
+Error en operacion 100000 en tiempo                  145 ns
+a = 00001100, b = 11101111, op = 100000, out = 11111011                 145
+Error en operacion 100100 en tiempo                  147 ns
+a = 11111100, b = 11011111, op = 100100, out = 11011100                 147
+Error en operacion 000011 en tiempo                  149 ns
+a = 00001100, b = 11101001, op = 000011, out = 00000000                 149
+Error en operacion 000010 en tiempo                  151 ns
+a = 00001110, b = 11101011, op = 000010, out = 00000000                 151
+a = 00001010, b = 11101101, op = 100000, out = 11110111                 153
+Error en operacion 000011 en tiempo                  155 ns
+a = 00001000, b = 11011000, op = 000011, out = 00000000                 155
+Error en operacion 000010 en tiempo                  157 ns
+a = 00001010, b = 11100111, op = 000010, out = 00000000                 157
+a = 11111001, b = 11101001, op = 100110, out = 00010000                 159
+Error en operacion 000011 en tiempo                  161 ns
+a = 00010110, b = 11100110, op = 000011, out = 00000000                 161
+Error en operacion 100111 en tiempo                  163 ns
+a = 00000110, b = 11010110, op = 100111, out = 00101001                 163
+Error en operacion 100000 en tiempo                  165 ns
+a = 00000011, b = 11110011, op = 100000, out = 11110110                 165
+Error en operacion 111111 en tiempo                  167 ns
+a = 00000101, b = 11100010, op = 111111, out = 00000000                 167
+Error en operacion 100111 en tiempo                  169 ns
+a = 00010100, b = 11111011, op = 100111, out = 00000000                 169
+a = 11111111, b = 11111001, op = 000010, out = 00000000                 171
+a = 00011000, b = 11110101, op = 100110, out = 11101101                 173
+Error en operacion 100111 en tiempo                  175 ns
+a = 00011010, b = 11110111, op = 100111, out = 00000000                 175
+Error en operacion 100101 en tiempo                  177 ns
+a = 00100100, b = 00000111, op = 100101, out = 00100111                 177
+Error en operacion 000010 en tiempo                  179 ns
+a = 00110001, b = 11100101, op = 000010, out = 00000000                 179
+Error en operacion 100100 en tiempo                  181 ns
+a = 01000001, b = 00000001, op = 100100, out = 00000001                 181
+Error en operacion 100010 en tiempo                  183 ns
+a = 00110000, b = 00000011, op = 100010, out = 00101101                 183
+Error en operacion 100111 en tiempo                  185 ns
+a = 00111111, b = 11110011, op = 100111, out = 00000000                 185
+Error en operacion 100100 en tiempo                  187 ns
+a = 00111101, b = 00001111, op = 100100, out = 00001101                 187
+Error en operacion 100010 en tiempo                  189 ns
+a = 00101100, b = 11111111, op = 100010, out = 00101101                 189
+Error en operacion 100111 en tiempo                  191 ns
+a = 00111011, b = 00001011, op = 100111, out = 11000100                 191
+Error en operacion 100100 en tiempo                  193 ns
+a = 01001011, b = 00011011, op = 100100, out = 00001011                 193
+Error en operacion 111111 en tiempo                  195 ns
+a = 00101000, b = 00101010, op = 111111, out = 00000000                 195
+Error en operacion 100111 en tiempo                  197 ns
+a = 00111000, b = 00010101, op = 100111, out = 11000010                 197
+Error en operacion 100000 en tiempo                  199 ns
+a = 01000111, b = 00010111, op = 100000, out = 01011110                 199
+Error en operacion 111111 en tiempo                  201 ns
+a = 00110110, b = 00011001, op = 111111, out = 00000000                 201
+Error en operacion 100101 en tiempo                  203 ns
+a = 00110100, b = 00100011, op = 100101, out = 00110111                 203
+Error en operacion 100110 en tiempo                  205 ns
+a = 00110110, b = 00010011, op = 100110, out = 00100101                 205
+Error en operacion 111111 en tiempo                  207 ns
+a = 00110010, b = 00101100, op = 111111, out = 00000000                 207
+Error en operacion 100101 en tiempo                  209 ns
+a = 01000010, b = 00101010, op = 100101, out = 01101010                 209
+Error en operacion 100000 en tiempo                  211 ns
+a = 01001001, b = 00111000, op = 100000, out = 10000001                 211
+Error en operacion 100111 en tiempo                  213 ns
+a = 01000111, b = 00110110, op = 100111, out = 10001000                 213
+Error en operacion 111111 en tiempo                  215 ns
+a = 01010101, b = 00100110, op = 111111, out = 00000000                 215
+Error en operacion 000010 en tiempo                  217 ns
+a = 01010111, b = 00101000, op = 000010, out = 00000000                 217
+a = 01000011, b = 01000100, op = 100111, out = 10111000                 219
+Error en operacion 000011 en tiempo                  221 ns
+a = 01000101, b = 00100010, op = 000011, out = 00000000                 221
+Error en operacion 000010 en tiempo                  223 ns
+a = 01010011, b = 00110010, op = 000010, out = 00000000                 223
+a = 01101101, b = 01000000, op = 100111, out = 10010010                 225
+Error en operacion 100110 en tiempo                  227 ns
+a = 01011101, b = 00110000, op = 100110, out = 01101101                 227
+Error en operacion 000011 en tiempo                  229 ns
+a = 01111010, b = 00101110, op = 000011, out = 00000000                 229
+Error en operacion 100101 en tiempo                  231 ns
+a = 01101001, b = 00110000, op = 100101, out = 01111001                 231
+Error en operacion 100110 en tiempo                  233 ns
+a = 01101011, b = 00101100, op = 100110, out = 01000111                 233
+Error en operacion 111111 en tiempo                  235 ns
+a = 01101001, b = 01011000, op = 111111, out = 00000000                 235
+Error en operacion 100101 en tiempo                  237 ns
+a = 01100101, b = 01001000, op = 100101, out = 01101101                 237
+Error en operacion 100110 en tiempo                  239 ns
+a = 01100111, b = 01000110, op = 100110, out = 00100001                 239
+Error en operacion 111111 en tiempo                  241 ns
+a = 01110111, b = 01010100, op = 111111, out = 00000000                 241
+Error en operacion 100010 en tiempo                  243 ns
+a = 01010101, b = 01010110, op = 100010, out = 11111111                 243
+Error en operacion 000010 en tiempo                  245 ns
+a = 01110001, b = 01011001, op = 000010, out = 00000000                 245
+Error en operacion 111111 en tiempo                  247 ns
+a = 01110011, b = 01011011, op = 111111, out = 00000000                 247
+a = 01111010, b = 01101001, op = 100110, out = 00010011                 249
+Error en operacion 100010 en tiempo                  251 ns
+a = 01111000, b = 01100111, op = 100010, out = 00010001                 251
+Error en operacion 100110 en tiempo                  253 ns
+a = 10000110, b = 01010111, op = 100110, out = 11010001                 253
+Error en operacion 100110 en tiempo                  255 ns
+a = 01110110, b = 01100111, op = 100110, out = 00010001                 255
+Error en operacion 100010 en tiempo                  257 ns
+a = 10000110, b = 01100011, op = 100010, out = 00100011                 257
+Error en operacion 100000 en tiempo                  259 ns
+a = 01110110, b = 01100101, op = 100000, out = 11011011                 259
+Error en operacion 100000 en tiempo                  261 ns
+a = 10000000, b = 01100011, op = 100000, out = 11100011                 261
+Error en operacion 111111 en tiempo                  263 ns
+a = 10000010, b = 01011111, op = 111111, out = 00000000                 263
+Error en operacion 100000 en tiempo                  265 ns
+a = 10000100, b = 01100001, op = 100000, out = 11100101                 265
+Error en operacion 100100 en tiempo                  267 ns
+a = 01101111, b = 01110001, op = 100100, out = 01100001                 267
+Error en operacion 111111 en tiempo                  269 ns
+a = 10011010, b = 01001110, op = 111111, out = 00000000                 269
+Error en operacion 100000 en tiempo                  271 ns
+a = 10011100, b = 01101011, op = 100000, out = 00000111                 271
+Error en operacion 100111 en tiempo                  273 ns
+a = 10011010, b = 01101101, op = 100111, out = 00000000                 273
+Error en operacion 111111 en tiempo                  275 ns
+a = 10010110, b = 01011100, op = 111111, out = 00000000                 275
+a = 10100110, b = 01011010, op = 100101, out = 11111110                 277
+Error en operacion 100111 en tiempo                  279 ns
+a = 10010110, b = 10000101, op = 100111, out = 01101000                 279
+Error en operacion 100110 en tiempo                  281 ns
+a = 10011000, b = 01110101, op = 100110, out = 11101101                 281
+Error en operacion 100101 en tiempo                  283 ns
+a = 10100010, b = 10011100, op = 100101, out = 10111110                 283
+Error en operacion 100101 en tiempo                  285 ns
+a = 10010010, b = 10001100, op = 100101, out = 10011110                 285
+Error en operacion 100111 en tiempo                  287 ns
+a = 10111001, b = 10010110, op = 100111, out = 01000000                 287
+Error en operacion 000011 en tiempo                  289 ns
+a = 10111011, b = 10011000, op = 000011, out = 11111111                 289
+Error en operacion 111111 en tiempo                  291 ns
+a = 10100101, b = 10011010, op = 111111, out = 00000000                 291
+Error en operacion 100111 en tiempo                  293 ns
+a = 10110101, b = 10000101, op = 100111, out = 01001010                 293
+Error en operacion 100110 en tiempo                  295 ns
+a = 10110111, b = 10010100, op = 100110, out = 00100011                 295
+Error en operacion 100101 en tiempo                  297 ns
+a = 10100110, b = 10010110, op = 100101, out = 10110110                 297
+Error en operacion 100101 en tiempo                  299 ns
+a = 10110001, b = 10100110, op = 100101, out = 10110111                 299
+Error en operacion 100110 en tiempo                  301 ns
+a = 10110011, b = 10000011, op = 100110, out = 00110000                 301
+Error en operacion 111111 en tiempo                  303 ns
+a = 10110000, b = 10100000, op = 111111, out = 00000000                 303
+Error en operacion 000010 en tiempo                  305 ns
+a = 10110010, b = 10100010, op = 000010, out = 00000000                 305
+a = 10101111, b = 10010001, op = 100110, out = 00111110                 307
+Error en operacion 000011 en tiempo                  309 ns
+a = 10101100, b = 10011100, op = 000011, out = 11111111                 309
+Error en operacion 000010 en tiempo                  311 ns
+a = 10101110, b = 10011110, op = 000010, out = 00000000                 311
+Error en operacion 100100 en tiempo                  313 ns
+a = 11011001, b = 10001101, op = 100100, out = 10001001                 313
+Error en operacion 100000 en tiempo                  315 ns
+a = 11000101, b = 10011101, op = 100000, out = 01100010                 315
+Error en operacion 111111 en tiempo                  317 ns
+a = 11000111, b = 10011010, op = 111111, out = 00000000                 317
+Error en operacion 100111 en tiempo                  319 ns
+a = 11010111, b = 10010111, op = 100111, out = 00101000                 319
+Error en operacion 100000 en tiempo                  321 ns
+a = 11010011, b = 10110000, op = 100000, out = 10000011                 321
+Error en operacion 111111 en tiempo                  323 ns
+a = 11000011, b = 10110010, op = 111111, out = 00000000                 323
+Error en operacion 100111 en tiempo                  325 ns
+a = 11010011, b = 11000111, op = 100111, out = 00101000                 325
+Error en operacion 000010 en tiempo                  327 ns
+a = 11011001, b = 11001001, op = 000010, out = 00000000                 327
+Error en operacion 100110 en tiempo                  329 ns
+a = 11101000, b = 11001011, op = 100110, out = 00100011                 329
+Error en operacion 111111 en tiempo                  331 ns
+a = 11100110, b = 11001000, op = 111111, out = 00000000                 331
+Error en operacion 000010 en tiempo                  333 ns
+a = 11010101, b = 11000101, op = 000010, out = 00000000                 333
+a = 11100101, b = 11010101, op = 100110, out = 00110000                 335
+Error en operacion 111111 en tiempo                  337 ns
+a = 11110100, b = 11000100, op = 111111, out = 00000000                 337
+Error en operacion 000010 en tiempo                  339 ns
+a = 11010001, b = 11000110, op = 000010, out = 00000000                 339
+a = 11100001, b = 11010001, op = 100100, out = 11000001                 341
+Error en operacion 100101 en tiempo                  343 ns
+a = 11100011, b = 11000000, op = 100101, out = 11100011                 343
+Error en operacion 100111 en tiempo                  345 ns
+a = 11011111, b = 11000010, op = 100111, out = 00100000                 345
+Error en operacion 100100 en tiempo                  347 ns
+a = 11011101, b = 11011111, op = 100100, out = 11011101                 347
+Error en operacion 100010 en tiempo                  349 ns
+a = 11011111, b = 10111100, op = 100010, out = 00100011                 349
+Error en operacion 100010 en tiempo                  351 ns
+a = 11101001, b = 11001100, op = 100010, out = 00011101                 351
+Error en operacion 100100 en tiempo                  353 ns
+a = 11101011, b = 11001110, op = 100100, out = 11001010                 353
+Error en operacion 100010 en tiempo                  355 ns
+a = 11011011, b = 11001010, op = 100010, out = 00010001                 355
+Error en operacion 111111 en tiempo                  357 ns
+a = 11110101, b = 11001000, op = 111111, out = 00000000                 357
+Error en operacion 100101 en tiempo                  359 ns
+a = 00000100, b = 11100001, op = 100101, out = 11100101                 359
+Error en operacion 100110 en tiempo                  361 ns
+a = 00000110, b = 11010001, op = 100110, out = 11010111                 361
+Error en operacion 000011 en tiempo                  363 ns
+a = 11110001, b = 11101101, op = 000011, out = 11111111                 363
+Error en operacion 100101 en tiempo                  365 ns
+a = 00001010, b = 11011101, op = 100101, out = 11011111                 365
+Error en operacion 100111 en tiempo                  367 ns
+a = 00100111, b = 11011011, op = 100111, out = 00000000                 367
+Error en operacion 100100 en tiempo                  369 ns
+a = 00010110, b = 11111001, op = 100100, out = 00010000                 369
+Error en operacion 100101 en tiempo                  371 ns
+a = 00000110, b = 00001000, op = 100101, out = 00001110                 371
+Error en operacion 000010 en tiempo                  373 ns
+a = 00010110, b = 11110011, op = 000010, out = 00000000                 373
+Error en operacion 100100 en tiempo                  375 ns
+a = 00010010, b = 11110101, op = 100100, out = 00010000                 375
+Error en operacion 100010 en tiempo                  377 ns
+a = 00010100, b = 11110111, op = 100010, out = 00011101                 377
+Error en operacion 000010 en tiempo                  379 ns
+a = 00010010, b = 00000001, op = 000010, out = 00001001                 379
+Error en operacion 000010 en tiempo                  381 ns
+a = 00000010, b = 11110001, op = 000010, out = 00000000                 381
+Error en operacion 000011 en tiempo                  383 ns
+a = 00011110, b = 00000001, op = 000011, out = 00001111                 383
+Error en operacion 000010 en tiempo                  385 ns
+a = 00100000, b = 11110001, op = 000010, out = 00000000                 385
+Error en operacion 000010 en tiempo                  387 ns
+a = 11111110, b = 11111111, op = 000010, out = 00000000                 387
+a = 00001110, b = 11111101, op = 100110, out = 11110011                 389
+Error en operacion 100111 en tiempo                  391 ns
+a = 00011100, b = 11101101, op = 100111, out = 00000010                 391
+Error en operacion 000010 en tiempo                  393 ns
+a = 00001100, b = 00001001, op = 000010, out = 00000000                 393
+Error en operacion 100100 en tiempo                  395 ns
+a = 00001010, b = 00001011, op = 100100, out = 00001010                 395
+Error en operacion 100111 en tiempo                  397 ns
+a = 00011000, b = 00000000, op = 100111, out = 11100111                 397
+Error en operacion 100000 en tiempo                  399 ns
+a = 00101000, b = 00010000, op = 100000, out = 00111000                 399
+Error en operacion 100100 en tiempo                  401 ns
+a = 00011000, b = 00011110, op = 100100, out = 00011000                 401
+Error en operacion 111111 en tiempo                  403 ns
+a = 00111011, b = 00001110, op = 111111, out = 00000000                 403
+Error en operacion 111111 en tiempo                  405 ns
+a = 01011000, b = 00001100, op = 111111, out = 00000000                 405
+a = 01000111, b = 00001110, op = 000010, out = 00000000                 407
+a = 01001001, b = 00011000, op = 000011, out = 00000000                 409
+a = 01000111, b = 00011010, op = 100101, out = 01011111                 411
+Error en operacion 100111 en tiempo                  413 ns
+a = 01000011, b = 00100110, op = 100111, out = 10011000                 413
+Error en operacion 100100 en tiempo                  415 ns
+a = 01010011, b = 00100100, op = 100100, out = 00000000                 415
+Error en operacion 100101 en tiempo                  417 ns
+a = 01010101, b = 00110010, op = 100101, out = 01110111                 417
+Error en operacion 100101 en tiempo                  419 ns
+a = 00110011, b = 00110100, op = 100101, out = 00110111                 419
+Error en operacion 100100 en tiempo                  421 ns
+a = 01001111, b = 00100000, op = 100100, out = 00000000                 421
+Error en operacion 100010 en tiempo                  423 ns
+a = 01010001, b = 00100010, op = 100010, out = 00101111                 423
+Error en operacion 100101 en tiempo                  425 ns
+a = 01000001, b = 00111110, op = 100101, out = 01111111                 425
+Error en operacion 000010 en tiempo                  427 ns
+a = 00111111, b = 00101110, op = 000010, out = 00000000                 427
+Error en operacion 100010 en tiempo                  429 ns
+a = 01001101, b = 00011110, op = 100010, out = 00101111                 429
+Error en operacion 000011 en tiempo                  431 ns
+a = 01001011, b = 00111010, op = 000011, out = 00000000                 431
+Error en operacion 000010 en tiempo                  433 ns
+a = 01001101, b = 00101010, op = 000010, out = 00000000                 433
+a = 01001001, b = 01000011, op = 100010, out = 00000110                 435
+Error en operacion 000011 en tiempo                  437 ns
+a = 01000111, b = 01000001, op = 000011, out = 00000000                 437
+Error en operacion 000010 en tiempo                  439 ns
+a = 01001001, b = 00111101, op = 000010, out = 00000000                 439
+a = 01100010, b = 01001101, op = 100100, out = 01000000                 441
+Error en operacion 100100 en tiempo                  443 ns
+a = 01011010, b = 01001111, op = 100100, out = 01001010                 443
+Error en operacion 100010 en tiempo                  445 ns
+a = 01011100, b = 00101100, op = 100010, out = 00110000                 445
+Error en operacion 000010 en tiempo                  447 ns
+a = 10001000, b = 01001001, op = 000010, out = 00000000                 447
+Error en operacion 100000 en tiempo                  449 ns
+a = 01111000, b = 01001011, op = 100000, out = 11000011                 449
+Error en operacion 100010 en tiempo                  451 ns
+a = 10000110, b = 00111010, op = 100010, out = 01001100                 451
+Error en operacion 000010 en tiempo                  453 ns
+a = 10000100, b = 00111000, op = 000010, out = 00000000                 453
+Error en operacion 000010 en tiempo                  455 ns
+a = 01110100, b = 01000111, op = 000010, out = 00000000                 455
+a = 01110110, b = 01100001, op = 111111, out = 00000000                 457
+a = 10010010, b = 01100011, op = 100111, out = 00001100                 459
+Error en operacion 000010 en tiempo                  461 ns
+a = 01110000, b = 01010011, op = 000010, out = 00000000                 461
+Error en operacion 100100 en tiempo                  463 ns
+a = 10000000, b = 01011101, op = 100100, out = 00000000                 463
+a = 10000010, b = 01011111, op = 100101, out = 11011111                 465
+Error en operacion 000010 en tiempo                  467 ns
+a = 01111110, b = 01100001, op = 000010, out = 00000000                 467
+Error en operacion 100100 en tiempo                  469 ns
+a = 01111100, b = 01011001, op = 100100, out = 01011000                 469
+Error en operacion 100101 en tiempo                  471 ns
+a = 01111110, b = 01011011, op = 100101, out = 01111111                 471
+Error en operacion 100111 en tiempo                  473 ns
+a = 01111011, b = 10000010, op = 100111, out = 00000100                 473
+Error en operacion 100100 en tiempo                  475 ns
+a = 10001010, b = 01110001, op = 100100, out = 00000000                 475
+Error en operacion 100010 en tiempo                  477 ns
+a = 01111010, b = 01101110, op = 100010, out = 00001100                 477
+Error en operacion 100010 en tiempo                  479 ns
+a = 10001110, b = 01111110, op = 100010, out = 00010000                 479
+Error en operacion 000010 en tiempo                  481 ns
+a = 10011101, b = 01101101, op = 000010, out = 00000000                 481
+Error en operacion 000011 en tiempo                  483 ns
+a = 10011111, b = 01101111, op = 000011, out = 11111111                 483
+Error en operacion 100010 en tiempo                  485 ns
+a = 10001010, b = 01111010, op = 100010, out = 00010000                 485
+Error en operacion 100000 en tiempo                  487 ns
+a = 10001100, b = 01101001, op = 100000, out = 11110101                 487
+Error en operacion 100100 en tiempo                  489 ns
+a = 10101001, b = 01111001, op = 100100, out = 00101001                 489
+Error en operacion 100100 en tiempo                  491 ns
+a = 10110101, b = 01111011, op = 100100, out = 00110001                 491
+Error en operacion 100101 en tiempo                  493 ns
+a = 10100101, b = 01110111, op = 100101, out = 11110111                 493
+Error en operacion 000010 en tiempo                  495 ns
+a = 10110101, b = 01110101, op = 000010, out = 00000000                 495
+Error en operacion 100100 en tiempo                  497 ns
+a = 10110001, b = 01110111, op = 100100, out = 00110001                 497
+Error en operacion 100101 en tiempo                  499 ns
+a = 10110011, b = 01100111, op = 100101, out = 11110111                 499
+Error en operacion 000010 en tiempo                  501 ns
+a = 10110001, b = 10000011, op = 000010, out = 00000000                 501
+Error en operacion 000011 en tiempo                  503 ns
+a = 10100000, b = 10010000, op = 000011, out = 11111111                 503
+Error en operacion 000011 en tiempo                  505 ns
+a = 10111101, b = 10001101, op = 000011, out = 11111111                 505
+a = 10111111, b = 10001111, op = 000010, out = 00000000                 507
+Error en operacion 100110 en tiempo                  509 ns
+a = 10011100, b = 10011110, op = 100110, out = 00000010                 509
+Error en operacion 100010 en tiempo                  511 ns
+a = 10101100, b = 10001001, op = 100010, out = 00100011                 511
+Error en operacion 100111 en tiempo                  513 ns
+a = 10111011, b = 10100010, op = 100111, out = 01000100                 513
+Error en operacion 100110 en tiempo                  515 ns
+a = 10101010, b = 10110001, op = 100110, out = 00011011                 515
+Error en operacion 000011 en tiempo                  517 ns
+a = 10111111, b = 10101110, op = 000011, out = 11111111                 517
+Error en operacion 100010 en tiempo                  519 ns
+a = 11001110, b = 10011110, op = 100010, out = 00110000                 519
+Error en operacion 100111 en tiempo                  521 ns
+a = 11001011, b = 10101110, op = 100111, out = 00010000                 521
+Error en operacion 100110 en tiempo                  523 ns
+a = 11001101, b = 10101010, op = 100110, out = 01100111                 523
+Error en operacion 100111 en tiempo                  525 ns
+a = 10111101, b = 10101100, op = 100111, out = 01000010                 525
+Error en operacion 100101 en tiempo                  527 ns
+a = 11000111, b = 10101010, op = 100101, out = 11101111                 527
+Error en operacion 100110 en tiempo                  529 ns
+a = 11001001, b = 10011010, op = 100110, out = 01010011                 529
+Error en operacion 100111 en tiempo                  531 ns
+a = 11001011, b = 10101000, op = 100111, out = 00010100                 531
+Error en operacion 100010 en tiempo                  533 ns
+a = 10110111, b = 10111000, op = 100010, out = 11111111                 533
+Error en operacion 100110 en tiempo                  535 ns
+a = 11000101, b = 10010110, op = 100110, out = 01010011                 535
+Error en operacion 100100 en tiempo                  537 ns
+a = 11110010, b = 10100110, op = 100100, out = 10100010                 537
+Error en operacion 100010 en tiempo                  539 ns
+a = 11100001, b = 10110100, op = 100010, out = 00101101                 539
+Error en operacion 100000 en tiempo                  541 ns
+a = 11010001, b = 10100100, op = 100000, out = 01110101                 541
+Error en operacion 100100 en tiempo                  543 ns
+a = 11101110, b = 10100010, op = 100100, out = 10100010                 543
+Error en operacion 111111 en tiempo                  545 ns
+a = 11011101, b = 10100100, op = 111111, out = 00000000                 545
+Error en operacion 100000 en tiempo                  547 ns
+a = 11011111, b = 10111100, op = 100000, out = 10011011                 547
+Error en operacion 000011 en tiempo                  549 ns
+a = 11011101, b = 11001100, op = 000011, out = 11111111                 549
+Error en operacion 111111 en tiempo                  551 ns
+a = 11011001, b = 11010011, op = 111111, out = 00000000                 551
+Error en operacion 100111 en tiempo                  553 ns
+a = 11101001, b = 11011101, op = 100111, out = 00000010                 553
+Error en operacion 100000 en tiempo                  555 ns
+a = 00000010, b = 11011111, op = 100000, out = 11100001                 555
+Error en operacion 100110 en tiempo                  557 ns
+a = 11101100, b = 11100001, op = 100110, out = 00001101                 557
+Error en operacion 111111 en tiempo                  559 ns
+a = 11111100, b = 11011111, op = 111111, out = 00000000                 559
+Error en operacion 100000 en tiempo                  561 ns
+a = 11111110, b = 11011011, op = 100000, out = 11011001                 561
+Error en operacion 100100 en tiempo                  563 ns
+a = 11101110, b = 11011101, op = 100100, out = 11001100                 563
+Error en operacion 111111 en tiempo                  565 ns
+a = 11111000, b = 11101101, op = 111111, out = 00000000                 565
+Error en operacion 100000 en tiempo                  567 ns
+a = 11111010, b = 11001011, op = 100000, out = 11000101                 567
+Error en operacion 100111 en tiempo                  569 ns
+a = 11111000, b = 11100111, op = 100111, out = 00000000                 569
+Error en operacion 000011 en tiempo                  571 ns
+a = 11111010, b = 11101001, op = 000011, out = 11111111                 571
+Error en operacion 000010 en tiempo                  573 ns
+a = 11110110, b = 11011001, op = 000010, out = 00000000                 573
+Error en operacion 100111 en tiempo                  575 ns
+a = 11110100, b = 11010111, op = 100111, out = 00001000                 575
+Error en operacion 100110 en tiempo                  577 ns
+a = 11110110, b = 11100101, op = 100110, out = 00010011                 577
+Error en operacion 100111 en tiempo                  579 ns
+a = 11111000, b = 11100011, op = 100111, out = 00000100                 579
+Error en operacion 100111 en tiempo                  581 ns
+a = 00001100, b = 11100101, op = 100111, out = 00010010                 581
+Error en operacion 100110 en tiempo                  583 ns
+a = 00001110, b = 11010101, op = 100110, out = 11011011                 583
+Error en operacion 100010 en tiempo                  585 ns
+a = 00011110, b = 11011111, op = 100010, out = 00111111                 585
+Error en operacion 100010 en tiempo                  587 ns
+a = 00001110, b = 11100001, op = 100010, out = 00101101                 587
+Error en operacion 100110 en tiempo                  589 ns
+a = 00001010, b = 11111010, op = 100110, out = 11110000                 589
+Error en operacion 111111 en tiempo                  591 ns
+a = 00011010, b = 00000010, op = 111111, out = 00000000                 591
+Error en operacion 000011 en tiempo                  593 ns
+a = 00100001, b = 00010000, op = 000011, out = 00000000                 593
+a = 00100011, b = 00100000, op = 000010, out = 00000000                 595
+a = 00101101, b = 00010000, op = 100110, out = 00111101                 597
+Error en operacion 000011 en tiempo                  599 ns
+a = 00011101, b = 00001100, op = 000011, out = 00000000                 599
+Error en operacion 100010 en tiempo                  601 ns
+a = 00101101, b = 00011100, op = 100010, out = 00010001                 601
+Error en operacion 100110 en tiempo                  603 ns
+a = 00111011, b = 00001100, op = 100110, out = 00110111                 603
+Error en operacion 100110 en tiempo                  605 ns
+a = 00011001, b = 00001110, op = 100110, out = 00010111                 605
+Error en operacion 100010 en tiempo                  607 ns
+a = 00101001, b = 00011000, op = 100010, out = 00010001                 607
+Error en operacion 100000 en tiempo                  609 ns
+a = 00101011, b = 00001000, op = 100000, out = 00110011                 609
+Error en operacion 100110 en tiempo                  611 ns
+a = 00100111, b = 00011000, op = 100110, out = 00111111                 611
+Error en operacion 100010 en tiempo                  613 ns
+a = 00100101, b = 00011010, op = 100010, out = 00001011                 613
+Error en operacion 100000 en tiempo                  615 ns
+a = 00100111, b = 00000100, op = 100000, out = 00101011                 615
+Error en operacion 100110 en tiempo                  617 ns
+a = 00100100, b = 00010100, op = 100110, out = 00110000                 617
+Error en operacion 111111 en tiempo                  619 ns
+a = 00110011, b = 00010110, op = 111111, out = 00000000                 619
+Error en operacion 100000 en tiempo                  621 ns
+a = 00100011, b = 00000101, op = 100000, out = 00101000                 621
+Error en operacion 100100 en tiempo                  623 ns
+a = 00100000, b = 00010000, op = 100100, out = 00000000                 623
+Error en operacion 000011 en tiempo                  625 ns
+a = 00111111, b = 00010010, op = 000011, out = 00000000                 625
+a = 01001101, b = 00100110, op = 000010, out = 00000000                 627
+a = 00111001, b = 00101000, op = 100111, out = 11000110                 629
+Error en operacion 100100 en tiempo                  631 ns
+a = 01010010, b = 00100101, op = 100100, out = 00000000                 631
+Error en operacion 000011 en tiempo                  633 ns
+a = 01100010, b = 00100010, op = 000011, out = 00000000                 633
+a = 01011110, b = 00100100, op = 100010, out = 00111010                 635
+Error en operacion 100000 en tiempo                  637 ns
+a = 01001110, b = 01001111, op = 100000, out = 10011101                 637
+Error en operacion 000011 en tiempo                  639 ns
+a = 01011110, b = 00111011, op = 000011, out = 00000000                 639
+Error en operacion 111111 en tiempo                  641 ns
+a = 01011010, b = 00111101, op = 111111, out = 00000000                 641
+a = 01011100, b = 01001101, op = 100000, out = 10101001                 643
+Error en operacion 000011 en tiempo                  645 ns
+a = 01011010, b = 01001001, op = 000011, out = 00000000                 645
+Error en operacion 100101 en tiempo                  647 ns
+a = 01001001, b = 00111001, op = 100101, out = 01111001                 647
+Error en operacion 100111 en tiempo                  649 ns
+a = 01100110, b = 01001001, op = 100111, out = 10010000                 649
+Error en operacion 100110 en tiempo                  651 ns
+a = 01101000, b = 00111000, op = 100110, out = 01010000                 651
+Error en operacion 100101 en tiempo                  653 ns
+a = 01000101, b = 01000111, op = 100101, out = 01000111                 653
+Error en operacion 000010 en tiempo                  655 ns
+a = 01010101, b = 01000101, op = 000010, out = 00000000                 655
+Error en operacion 100110 en tiempo                  657 ns
+a = 01100100, b = 00110100, op = 100110, out = 01010000                 657
+Error en operacion 111111 en tiempo                  659 ns
+a = 01110100, b = 01000100, op = 111111, out = 00000000                 659
+Error en operacion 000010 en tiempo                  661 ns
+a = 01010001, b = 01010011, op = 000010, out = 00000000                 661
+a = 01010011, b = 00110000, op = 111111, out = 00000000                 663
+a = 01110000, b = 01010111, op = 111111, out = 00000000                 665
+a = 01011111, b = 01011001, op = 000010, out = 00000000                 667
+a = 01001111, b = 01010101, op = 000011, out = 00000000                 669
+a = 10010011, b = 01010011, op = 100100, out = 00010011                 671
+Error en operacion 100110 en tiempo                  673 ns
+a = 10001111, b = 01010101, op = 100110, out = 11011010                 673
+Error en operacion 100010 en tiempo                  675 ns
+a = 10011111, b = 01011111, op = 100010, out = 01000000                 675
+Error en operacion 100100 en tiempo                  677 ns
+a = 10001111, b = 01100001, op = 100100, out = 00000001                 677
+Error en operacion 111111 en tiempo                  679 ns
+a = 01111110, b = 01010001, op = 111111, out = 00000000                 679
+Error en operacion 100010 en tiempo                  681 ns
+a = 10011011, b = 01101011, op = 100010, out = 00110000                 681
+Error en operacion 100000 en tiempo                  683 ns
+a = 10011101, b = 01111010, op = 100000, out = 00010111                 683
+Error en operacion 111111 en tiempo                  685 ns
+a = 01111010, b = 01111100, op = 111111, out = 00000000                 685
+Error en operacion 111111 en tiempo                  687 ns
+a = 10010111, b = 01100111, op = 111111, out = 00000000                 687
+a = 10011001, b = 01101001, op = 100000, out = 00000010                 689
+Error en operacion 100100 en tiempo                  691 ns
+a = 10010110, b = 10000110, op = 100100, out = 10000110                 691
+Error en operacion 100101 en tiempo                  693 ns
+a = 10000110, b = 01110101, op = 100101, out = 11110111                 693
+Error en operacion 100000 en tiempo                  695 ns
+a = 10010101, b = 01100101, op = 100000, out = 11111010                 695
+Error en operacion 100100 en tiempo                  697 ns
+a = 10010010, b = 01110101, op = 100100, out = 00010000                 697
+Error en operacion 100101 en tiempo                  699 ns
+a = 10010100, b = 01110001, op = 100101, out = 11110101                 699
+Error en operacion 100100 en tiempo                  701 ns
+a = 10000100, b = 01110011, op = 100100, out = 00000000                 701
+Error en operacion 100100 en tiempo                  703 ns
+a = 10001110, b = 10001000, op = 100100, out = 10001000                 703
+Error en operacion 100010 en tiempo                  705 ns
+a = 10010000, b = 01111000, op = 100010, out = 00011000                 705
+Error en operacion 000010 en tiempo                  707 ns
+a = 10100000, b = 10010100, op = 000010, out = 00000000                 707
+Error en operacion 100111 en tiempo                  709 ns
+a = 10010101, b = 10010110, op = 100111, out = 01101000                 709
+Error en operacion 000011 en tiempo                  711 ns
+a = 10100011, b = 01110100, op = 000011, out = 11111111                 711
+Error en operacion 100101 en tiempo                  713 ns
+a = 10110011, b = 10000100, op = 100101, out = 10110111                 713
+Error en operacion 100101 en tiempo                  715 ns
+a = 10111111, b = 10010010, op = 100101, out = 10111111                 715
+Error en operacion 100110 en tiempo                  717 ns
+a = 10101111, b = 10000010, op = 100110, out = 00101101                 717
+Error en operacion 100110 en tiempo                  719 ns
+a = 11001100, b = 10000000, op = 100110, out = 01001100                 719
+Error en operacion 100101 en tiempo                  721 ns
+a = 10111011, b = 10001110, op = 100101, out = 10111111                 721
+Error en operacion 000010 en tiempo                  723 ns
+a = 11001011, b = 10001100, op = 000010, out = 00000000                 723
+Error en operacion 100110 en tiempo                  725 ns
+a = 11001000, b = 10101010, op = 100110, out = 01100010                 725
+Error en operacion 100101 en tiempo                  727 ns
+a = 10110111, b = 10011010, op = 100101, out = 10111111                 727
+Error en operacion 000010 en tiempo                  729 ns
+a = 11000111, b = 10100100, op = 000010, out = 00000000                 729
+Error en operacion 111111 en tiempo                  731 ns
+a = 11001001, b = 10100110, op = 111111, out = 00000000                 731
+a = 10110011, b = 10101000, op = 100010, out = 00001011                 733
+Error en operacion 000010 en tiempo                  735 ns
+a = 11000011, b = 10010100, op = 000010, out = 00000000                 735
+Error en operacion 000011 en tiempo                  737 ns
+a = 11000101, b = 10100010, op = 000011, out = 11111111                 737
+Error en operacion 100110 en tiempo                  739 ns
+a = 11000011, b = 10110010, op = 100110, out = 01110001                 739
+Error en operacion 100111 en tiempo                  741 ns
+a = 10111111, b = 10111001, op = 100111, out = 01000000                 741
+Error en operacion 000011 en tiempo                  743 ns
+a = 11000001, b = 10101001, op = 000011, out = 11111111                 743
+Error en operacion 100110 en tiempo                  745 ns
+a = 10111111, b = 11000101, op = 100110, out = 01111010                 745
+Error en operacion 111111 en tiempo                  747 ns
+a = 11011000, b = 10110101, op = 111111, out = 00000000                 747
+Error en operacion 100100 en tiempo                  749 ns
+a = 11100110, b = 10110111, op = 100100, out = 10100110                 749
+Error en operacion 000010 en tiempo                  751 ns
+a = 11010010, b = 10110101, op = 000010, out = 00000000                 751
+Error en operacion 111111 en tiempo                  753 ns
+a = 11010100, b = 10110001, op = 111111, out = 00000000                 753
+a = 11100100, b = 11000001, op = 100101, out = 11100101                 755
+Error en operacion 000010 en tiempo                  757 ns
+a = 11100000, b = 11000011, op = 000010, out = 00000000                 757
+Error en operacion 111111 en tiempo                  759 ns
+a = 11101100, b = 10101101, op = 111111, out = 00000000                 759
+a = 11111100, b = 10111101, op = 100101, out = 11111101                 761
+Error en operacion 000010 en tiempo                  763 ns
+a = 11111000, b = 10111111, op = 000010, out = 00000000                 763
+Error en operacion 000011 en tiempo                  765 ns
+a = 11111010, b = 10111100, op = 000011, out = 11111111                 765
+Error en operacion 100101 en tiempo                  767 ns
+a = 11111000, b = 10111001, op = 100101, out = 11111001                 767
+Error en operacion 100101 en tiempo                  769 ns
+a = 11101000, b = 10111011, op = 100101, out = 11111011                 769
+Error en operacion 100100 en tiempo                  771 ns
+a = 00000100, b = 11010101, op = 100100, out = 00000100                 771
+Error en operacion 100010 en tiempo                  773 ns
+a = 00000110, b = 11010111, op = 100010, out = 00101111                 773
+Error en operacion 100101 en tiempo                  775 ns
+a = 11100100, b = 11010011, op = 100101, out = 11110111                 775
+Error en operacion 100000 en tiempo                  777 ns
+a = 11110100, b = 11010001, op = 100000, out = 11000101                 777
+Error en operacion 100010 en tiempo                  779 ns
+a = 00000010, b = 11101010, op = 100010, out = 00011000                 779
+Error en operacion 100101 en tiempo                  781 ns
+a = 11110010, b = 11111010, op = 100101, out = 11111010                 781
+Error en operacion 000010 en tiempo                  783 ns
+a = 11110000, b = 11100100, op = 000010, out = 00000000                 783
+Error en operacion 100110 en tiempo                  785 ns
+a = 00001001, b = 11100110, op = 100110, out = 11101111                 785
+Error en operacion 100100 en tiempo                  787 ns
+a = 00010011, b = 11110110, op = 100100, out = 00010010                 787
+Error en operacion 100101 en tiempo                  789 ns
+a = 00010101, b = 11100101, op = 100101, out = 11110101                 789
+Error en operacion 100110 en tiempo                  791 ns
+a = 00000101, b = 11110100, op = 100110, out = 11110001                 791
+Error en operacion 000011 en tiempo                  793 ns
+a = 00000010, b = 11110010, op = 000011, out = 00000000                 793
+Error en operacion 100101 en tiempo                  795 ns
+a = 00010001, b = 11100001, op = 100101, out = 11110001                 795
+Error en operacion 100100 en tiempo                  797 ns
+a = 00010011, b = 11110001, op = 100100, out = 00010001                 797
+Error en operacion 000011 en tiempo                  799 ns
+a = 11111110, b = 00000000, op = 000011, out = 11111110                 799
+Error en operacion 100111 en tiempo                  801 ns
+a = 00000000, b = 11011101, op = 100111, out = 00100010                 801
+Error en operacion 000010 en tiempo                  803 ns
+a = 00111001, b = 11101101, op = 000010, out = 00000000                 803
+Error en operacion 000010 en tiempo                  805 ns
+a = 00101001, b = 11111100, op = 000010, out = 00000000                 805
+a = 00011001, b = 11101011, op = 111111, out = 00000000                 807
+a = 00110101, b = 11101001, op = 000010, out = 00000000                 809
+a = 00100101, b = 11101011, op = 000010, out = 00000000                 811
+a = 00100111, b = 11110101, op = 111111, out = 00000000                 813
+a = 00100101, b = 00010100, op = 100101, out = 00110101                 815
+Error en operacion 000010 en tiempo                  817 ns
+a = 00100001, b = 00000100, op = 000010, out = 00000010                 817
+Error en operacion 100100 en tiempo                  819 ns
+a = 00110001, b = 00011000, op = 100100, out = 00010000                 819
+Error en operacion 100101 en tiempo                  821 ns
+a = 00110011, b = 00100111, op = 100101, out = 00110111                 821
+Error en operacion 000010 en tiempo                  823 ns
+a = 00100111, b = 00101001, op = 000010, out = 00000000                 823
+Error en operacion 000010 en tiempo                  825 ns
+a = 01000100, b = 00100111, op = 000010, out = 00000000                 825
+a = 01000110, b = 00010110, op = 111111, out = 00000000                 827
+a = 00110101, b = 00110011, op = 100111, out = 11001000                 829
+Error en operacion 100100 en tiempo                  831 ns
+a = 00110011, b = 00110101, op = 100100, out = 00110001                 831
+Error en operacion 000011 en tiempo                  833 ns
+a = 01000010, b = 00010010, op = 000011, out = 00000000                 833
+Error en operacion 100010 en tiempo                  835 ns
+a = 00111111, b = 00100010, op = 100010, out = 00011101                 835
+Error en operacion 100000 en tiempo                  837 ns
+a = 01000001, b = 00110001, op = 100000, out = 01110010                 837
+Error en operacion 100010 en tiempo                  839 ns
+a = 00110001, b = 00100000, op = 100010, out = 00010001                 839
+Error en operacion 100010 en tiempo                  841 ns
+a = 00111011, b = 00011110, op = 100010, out = 00011101                 841
+Error en operacion 100000 en tiempo                  843 ns
+a = 00111101, b = 00101101, op = 100000, out = 01101010                 843
+Error en operacion 000011 en tiempo                  845 ns
+a = 01001101, b = 00101010, op = 000011, out = 00000000                 845
+Error en operacion 111111 en tiempo                  847 ns
+a = 00110111, b = 00101100, op = 111111, out = 00000000                 847
+a = 01010110, b = 00011100, op = 100101, out = 01011110                 849
+Error en operacion 000010 en tiempo                  851 ns
+a = 01100110, b = 00100110, op = 000010, out = 00000000                 851
+Error en operacion 000011 en tiempo                  853 ns
+a = 01010101, b = 00101000, op = 000011, out = 00000000                 853
+a = 01010010, b = 00101010, op = 100010, out = 00101000                 855
+Error en operacion 000010 en tiempo                  857 ns
+a = 01100010, b = 00101101, op = 000010, out = 00000000                 857
+Error en operacion 000011 en tiempo                  859 ns
+a = 01010001, b = 01011000, op = 000011, out = 00000000                 859
+a = 01111000, b = 01101000, op = 000011, out = 00000000                 861
+a = 01110101, b = 01010111, op = 100101, out = 01110111                 863
+Error en operacion 100000 en tiempo                  865 ns
+a = 01100100, b = 01000111, op = 100000, out = 10101011                 865
+Error en operacion 000011 en tiempo                  867 ns
+a = 01110100, b = 01100100, op = 000011, out = 00000000                 867
+Error en operacion 100111 en tiempo                  869 ns
+a = 01110110, b = 01010011, op = 100111, out = 10001000                 869
+Error en operacion 100000 en tiempo                  871 ns
+a = 01100000, b = 01010101, op = 100000, out = 10110101                 871
+Error en operacion 000011 en tiempo                  873 ns
+a = 01110000, b = 01010011, op = 000011, out = 00000000                 873
+Error en operacion 100111 en tiempo                  875 ns
+a = 01110010, b = 01001111, op = 100111, out = 10000000                 875
+Error en operacion 100101 en tiempo                  877 ns
+a = 01110000, b = 01011111, op = 100101, out = 01111111                 877
+Error en operacion 100110 en tiempo                  879 ns
+a = 01101100, b = 01100001, op = 100110, out = 00001101                 879
+Error en operacion 100111 en tiempo                  881 ns
+a = 01101110, b = 01001011, op = 100111, out = 10010000                 881
+Error en operacion 100010 en tiempo                  883 ns
+a = 01101100, b = 01011011, op = 100010, out = 00010001                 883
+Error en operacion 100100 en tiempo                  885 ns
+a = 01101110, b = 01011101, op = 100100, out = 01001100                 885
+Error en operacion 100101 en tiempo                  887 ns
+a = 01101010, b = 01001101, op = 100101, out = 01101111                 887
+Error en operacion 100010 en tiempo                  889 ns
+a = 01101000, b = 01010111, op = 100010, out = 00010001                 889
+Error en operacion 100100 en tiempo                  891 ns
+a = 01101010, b = 01011001, op = 100100, out = 01001000                 891
+Error en operacion 100100 en tiempo                  893 ns
+a = 10100011, b = 01010111, op = 100100, out = 00000011                 893
+Error en operacion 100010 en tiempo                  895 ns
+a = 10000000, b = 01110000, op = 100010, out = 00010000                 895
+Error en operacion 100000 en tiempo                  897 ns
+a = 10000010, b = 01101100, op = 100000, out = 11101110                 897
+Error en operacion 100100 en tiempo                  899 ns
+a = 10101001, b = 01101010, op = 100100, out = 00101000                 899
+Error en operacion 100110 en tiempo                  901 ns
+a = 10100101, b = 01101100, op = 100110, out = 11001001                 901
+Error en operacion 100111 en tiempo                  903 ns
+a = 10010101, b = 10001010, op = 100111, out = 01100000                 903
+Error en operacion 100100 en tiempo                  905 ns
+a = 10100101, b = 10000010, op = 100100, out = 10000000                 905
+Error en operacion 100100 en tiempo                  907 ns
+a = 10010101, b = 10000100, op = 100100, out = 10000100                 907
+Error en operacion 100010 en tiempo                  909 ns
+a = 10110001, b = 10010100, op = 100010, out = 00011101                 909
+Error en operacion 100000 en tiempo                  911 ns
+a = 10100001, b = 10000100, op = 100000, out = 00100101                 911
+Error en operacion 100100 en tiempo                  913 ns
+a = 10010001, b = 10000000, op = 100100, out = 10000000                 913
+Error en operacion 000011 en tiempo                  915 ns
+a = 10100001, b = 10010000, op = 000011, out = 11111111                 915
+Error en operacion 100000 en tiempo                  917 ns
+a = 10101111, b = 10000000, op = 100000, out = 00101111                 917
+Error en operacion 100000 en tiempo                  919 ns
+a = 10001101, b = 10000010, op = 100000, out = 00001111                 919
+Error en operacion 000011 en tiempo                  921 ns
+a = 10011101, b = 10001100, op = 000011, out = 11111111                 921
+Error en operacion 000010 en tiempo                  923 ns
+a = 10011111, b = 01111100, op = 000010, out = 00000000                 923
+Error en operacion 100110 en tiempo                  925 ns
+a = 10111011, b = 10001100, op = 100110, out = 00110111                 925
+Error en operacion 000011 en tiempo                  927 ns
+a = 10011001, b = 10011010, op = 000011, out = 11111111                 927
+Error en operacion 100111 en tiempo                  929 ns
+a = 10011011, b = 01111000, op = 100111, out = 00000100                 929
+Error en operacion 100110 en tiempo                  931 ns
+a = 10110111, b = 10001000, op = 100110, out = 00111111                 931
+Error en operacion 100110 en tiempo                  933 ns
+a = 10100111, b = 10100001, op = 100110, out = 00000110                 933
+Error en operacion 100111 en tiempo                  935 ns
+a = 10010111, b = 10011101, op = 100111, out = 01100000                 935
+Error en operacion 000010 en tiempo                  937 ns
+a = 11011010, b = 10011011, op = 000010, out = 00000000                 937
+Error en operacion 100000 en tiempo                  939 ns
+a = 11010110, b = 10011101, op = 100000, out = 01110011                 939
+Error en operacion 000011 en tiempo                  941 ns
+a = 11100110, b = 10011010, op = 000011, out = 11111111                 941
+Error en operacion 100111 en tiempo                  943 ns
+a = 11010110, b = 10101001, op = 100111, out = 00000000                 943
+Error en operacion 000010 en tiempo                  945 ns
+a = 11000110, b = 10011001, op = 000010, out = 00000000                 945
+a = 11100010, b = 10010110, op = 100110, out = 01110100                 947
+Error en operacion 100111 en tiempo                  949 ns
+a = 11100100, b = 10110101, op = 100111, out = 00001010                 949
+Error en operacion 100111 en tiempo                  951 ns
+a = 11000010, b = 11010001, op = 100111, out = 00101100                 951
+Error en operacion 100100 en tiempo                  953 ns
+a = 11010010, b = 10101111, op = 100100, out = 10000010                 953
+Error en operacion 100111 en tiempo                  955 ns
+a = 11100000, b = 10110001, op = 100111, out = 00001110                 955
+Error en operacion 100010 en tiempo                  957 ns
+a = 11011110, b = 11000001, op = 100010, out = 00011101                 957
+Error en operacion 100100 en tiempo                  959 ns
+a = 11001110, b = 10111101, op = 100100, out = 10001100                 959
+Error en operacion 100010 en tiempo                  961 ns
+a = 11010000, b = 10101101, op = 100010, out = 00100011                 961
+Error en operacion 100010 en tiempo                  963 ns
+a = 11011010, b = 10111101, op = 100010, out = 00011101                 963
+Error en operacion 100000 en tiempo                  965 ns
+a = 11011100, b = 10111001, op = 100000, out = 10010101                 965
+Error en operacion 100010 en tiempo                  967 ns
+a = 11001100, b = 11001001, op = 100010, out = 00000011                 967
+Error en operacion 111111 en tiempo                  969 ns
+a = 11010110, b = 10111001, op = 111111, out = 00000000                 969
+Error en operacion 100000 en tiempo                  971 ns
+a = 11011000, b = 10111111, op = 100000, out = 10010111                 971
+Error en operacion 000011 en tiempo                  973 ns
+a = 11101000, b = 11011100, op = 000011, out = 11111111                 973
+Error en operacion 100101 en tiempo                  975 ns
+a = 11000101, b = 11011110, op = 100101, out = 11011111                 975
+Error en operacion 100111 en tiempo                  977 ns
+a = 11101011, b = 10111011, op = 100111, out = 00000100                 977
+Error en operacion 100000 en tiempo                  979 ns
+a = 11111011, b = 11001011, op = 100000, out = 11000110                 979
+Error en operacion 111111 en tiempo                  981 ns
+a = 11101010, b = 11011010, op = 111111, out = 00000000                 981
+Error en operacion 100010 en tiempo                  983 ns
+a = 11110111, b = 11010111, op = 100010, out = 00100000                 983
+Error en operacion 100000 en tiempo                  985 ns
+a = 00010011, b = 11000111, op = 100000, out = 11011010                 985
+Error en operacion 100100 en tiempo                  987 ns
+a = 00000011, b = 11001001, op = 100100, out = 00000001                 987
+Error en operacion 000011 en tiempo                  989 ns
+a = 00010011, b = 11010011, op = 000011, out = 00000000                 989
+Error en operacion 000010 en tiempo                  991 ns
+a = 00000011, b = 11010101, op = 000010, out = 00000000                 991
+a = 11111111, b = 11100010, op = 100000, out = 11100001                 993
+Error en operacion 000011 en tiempo                  995 ns
+a = 00001111, b = 11011111, op = 000011, out = 00000000                 995
+Error en operacion 100111 en tiempo                  997 ns
+a = 00010001, b = 11101110, op = 100111, out = 00000000                 997
+a = 11101110, b = 11111110, op = 100110, out = 00010000                 999

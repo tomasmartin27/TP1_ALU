@@ -2,6 +2,6 @@
 2019.2
 Nov  6 2019
 21:57:16
-C:/Vivado/TP1.2/TP1.2.sim/sim_1/synth/timing/xsim/Contro_tb_time_synth.v,1633031144,verilog,,C:/Vivado/TP1/TP1.srcs/sim_1/new/Contro_tb.v,,ALU;Control;glbl,,,,,,,,
-C:/Vivado/TP1/TP1.srcs/sim_1/new/ALU_tb.v,1632414055,verilog,,,,ALU_tb,,,,,,,,
+C:/Vivado/TP1.2/TP1.2.sim/sim_1/synth/timing/xsim/ALU_tb_time_synth.v,1633707478,verilog,,C:/Vivado/TP1/TP1.srcs/sim_1/new/ALU_tb.v,,ALU;glbl,,,,,,,,
+C:/Vivado/TP1/TP1.srcs/sim_1/new/ALU_tb.v,1633024812,verilog,,,,ALU_tb,,,,,,,,
 C:/Vivado/TP1/TP1.srcs/sim_1/new/Contro_tb.v,1633029493,verilog,,,,Contro_tb,,,,,,,,

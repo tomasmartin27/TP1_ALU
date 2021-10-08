@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-`define CLK 2
+`define CLK 3
 module ALU_tb;
     parameter N_BITS = 8;
     reg [N_BITS-1:0] a;
@@ -9,7 +9,8 @@ module ALU_tb;
     reg [N_BITS-1:0] expect;
     reg [N_BITS-1:0] out1;
     reg clock;
-    integer i;
+    integer i, test;
+    integer simtime = 800;
     integer seed = 4;
     
     initial begin
@@ -17,6 +18,7 @@ module ALU_tb;
     b=8'b00000000;
     op=6'b000000;
     clock = 1'b0;
+    test = 0;
     end
     
     initial $monitor("a = %b, b = %b, op = %b, out = %b", a, b, op, out, $time);
@@ -58,7 +60,16 @@ module ALU_tb;
     out1<=out;
     if(expect!=out1) begin
         $display("Error en operacion %b en tiempo %d ns", op, $time);
-        //$stop;
+        test <= 1;
+    end
+    
+    if($time>simtime) begin
+        if(test==0) 
+            $display("Test Pass");
+        else if(test==1)
+            $display("Error"); 
+     
+     $finish;
     end
 end
    

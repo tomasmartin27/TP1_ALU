@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-`define CLK 20
+`define CLK 2
 module Contro_tb;
     parameter N_BITS = 8;
     reg [N_BITS-1:0] sw;
@@ -8,10 +8,11 @@ module Contro_tb;
     reg out_enable;
     reg reset;
     wire [N_BITS-1:0] lds;
-    integer i, j;
-    integer seed = 2;
+    integer i, j, test;
+    integer simtime = 800;
+    integer seed = 3;
     reg [N_BITS-1:0] a, b, op, expect;
-
+    
 initial begin
     clock = 1'b0;
     reset = 1'b1;
@@ -23,6 +24,7 @@ initial begin
     repeat(2)@(posedge clock);
     reset = 1'b0;
     i=0;
+    test=0;
 end
 
 initial $monitor("switch = %b, botones = %b, leds = %b", sw, btns, lds, $time);
@@ -87,10 +89,19 @@ always@(posedge clock) begin: assertion_operation
         6'b000010: expect <= a>>b;
         default: expect <= 8'b00000000;
     endcase
-
+    
     if(expect!=lds) begin
         $display("Error en operacion %b en tiempo %d ns", op, $time);
-        //$stop;
+        test <= 1;
+    end
+    
+    if($time>simtime) begin
+        if(test==0) 
+            $display("Test Pass");
+        else if(test==1)
+            $display("Error"); 
+     
+     $finish;
     end
 end
 end

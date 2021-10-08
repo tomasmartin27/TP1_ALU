@@ -1,3 +1,4 @@
+#Constraints del Modulo Control
 #set_property PACKAGE_PIN W5 [get_ports clock]							
 #	set_property IOSTANDARD LVCMOS33 [get_ports clock]
 #	create_clock -add -name sys_clk_pin -period 10.000 -waveform {0 5} [get_ports clock]
@@ -44,6 +45,7 @@
 #set_property PACKAGE_PIN U17 [get_ports reset]						
 #	set_property IOSTANDARD LVCMOS33 [get_ports reset]
 	
+#Constraints del Modulo ALU
 create_clock -name clock -period 10.000
 
 set_property PACKAGE_PIN V17 [get_ports {A[0]}]					

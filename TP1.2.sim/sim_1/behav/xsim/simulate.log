@@ -1,253 +1,85 @@
 Vivado Simulator 2019.2
 Time resolution is 1 ps
-switch = xxxxxxxx, botones = xxx, leds = xxxxxxxx                   0
-switch = xxxxxxxx, botones = xxx, leds = 00000000                   2
-switch = 10000011, botones = 001, leds = 00000000                   6
-switch = 11111100, botones = 010, leds = 00000000                  10
-switch = 00100010, botones = 100, leds = 00000000                  14
-switch = 00100010, botones = 000, leds = 10000111                  18
-switch = 10011011, botones = 001, leds = 10000111                  22
-switch = 00000110, botones = 010, leds = 10000111                  26
-switch = 00100110, botones = 100, leds = 10000111                  30
-switch = 00100110, botones = 000, leds = 10011101                  34
-switch = 10100011, botones = 001, leds = 10011101                  38
-switch = 11110010, botones = 010, leds = 10011101                  42
-switch = 00000010, botones = 100, leds = 10011101                  46
-switch = 00000010, botones = 000, leds = 00000000                  50
-switch = 11000100, botones = 001, leds = 00000000                  54
-switch = 00111101, botones = 010, leds = 00000000                  58
-switch = 00100111, botones = 100, leds = 00000000                  62
-switch = 00100111, botones = 000, leds = 00000010                  66
-switch = 10101111, botones = 001, leds = 00000010                  70
-switch = 00101001, botones = 010, leds = 00000010                  74
-switch = 00100111, botones = 100, leds = 00000010                  78
-switch = 00100111, botones = 000, leds = 01010000                  82
-switch = 11000111, botones = 001, leds = 01010000                  86
-switch = 00110011, botones = 010, leds = 01010000                  90
-switch = 00100100, botones = 100, leds = 01010000                  94
-switch = 00100100, botones = 000, leds = 00000011                  98
-switch = 00000101, botones = 001, leds = 00000011                 102
-switch = 01001001, botones = 010, leds = 00000011                 106
-switch = 00100110, botones = 100, leds = 00000011                 110
-switch = 00100110, botones = 000, leds = 01001100                 114
-switch = 11110000, botones = 001, leds = 01001100                 118
-switch = 01101010, botones = 010, leds = 01001100                 122
-switch = 00100110, botones = 100, leds = 01001100                 126
-switch = 00100110, botones = 000, leds = 10011010                 130
-switch = 11111010, botones = 001, leds = 10011010                 134
-switch = 01100010, botones = 010, leds = 10011010                 138
-switch = 00100010, botones = 100, leds = 10011010                 142
-switch = 00100010, botones = 000, leds = 10011000                 146
-switch = 00100111, botones = 001, leds = 10011000                 150
-switch = 01011111, botones = 010, leds = 10011000                 154
-switch = 00100010, botones = 100, leds = 10011000                 158
-switch = 00100010, botones = 000, leds = 11001000                 162
-switch = 00110001, botones = 001, leds = 11001000                 166
-switch = 10011001, botones = 010, leds = 11001000                 170
-switch = 00111111, botones = 100, leds = 11001000                 174
-switch = 00111111, botones = 000, leds = 00000000                 178
-switch = 00011101, botones = 001, leds = 00000000                 182
-switch = 10010110, botones = 010, leds = 00000000                 186
-switch = 00100110, botones = 100, leds = 00000000                 190
-switch = 00100110, botones = 000, leds = 10001011                 194
-switch = 00111110, botones = 001, leds = 10001011                 198
-switch = 10001110, botones = 010, leds = 10001011                 202
-switch = 00100111, botones = 100, leds = 10001011                 206
-switch = 00100111, botones = 000, leds = 01000001                 210
-switch = 01100000, botones = 001, leds = 01000001                 214
-switch = 10100011, botones = 010, leds = 01000001                 218
-switch = 00100010, botones = 100, leds = 01000001                 222
-switch = 00100010, botones = 000, leds = 10111101                 226
-switch = 01011110, botones = 001, leds = 10111101                 230
-switch = 11000101, botones = 010, leds = 10111101                 234
-switch = 00111111, botones = 100, leds = 10111101                 238
-switch = 00111111, botones = 000, leds = 00000000                 242
-switch = 01101101, botones = 001, leds = 00000000                 246
-switch = 11001111, botones = 010, leds = 00000000                 250
-switch = 00111111, botones = 100, leds = 00000000                 254
-switch = 00111111, botones = 000, leds = 00000000                 258
-switch = 01101010, botones = 001, leds = 00000000                 262
-switch = 11010010, botones = 010, leds = 00000000                 266
-switch = 00100111, botones = 100, leds = 00000000                 270
-switch = 00100111, botones = 000, leds = 00000101                 274
-switch = 10001101, botones = 001, leds = 00000101                 278
-switch = 11011100, botones = 010, leds = 00000101                 282
-switch = 00100101, botones = 100, leds = 00000101                 286
-switch = 00100101, botones = 000, leds = 11011101                 290
-switch = 10100001, botones = 001, leds = 11011101                 294
-switch = 11110010, botones = 010, leds = 11011101                 298
-switch = 00100101, botones = 100, leds = 11011101                 302
-switch = 00100101, botones = 000, leds = 11110011                 306
-switch = 10011001, botones = 001, leds = 11110011                 310
-switch = 00010011, botones = 010, leds = 11110011                 314
-switch = 00100010, botones = 100, leds = 11110011                 318
-switch = 00100010, botones = 000, leds = 10000110                 322
-switch = 10110001, botones = 001, leds = 10000110                 326
-switch = 11111110, botones = 010, leds = 10000110                 330
-switch = 00100110, botones = 100, leds = 10000110                 334
-switch = 00100110, botones = 000, leds = 01001111                 338
-switch = 10111001, botones = 001, leds = 01001111                 342
-switch = 00100101, botones = 010, leds = 01001111                 346
-switch = 00000010, botones = 100, leds = 01001111                 350
-switch = 00000010, botones = 000, leds = 00000000                 354
-switch = 11011010, botones = 001, leds = 00000000                 358
-switch = 00111101, botones = 010, leds = 00000000                 362
-switch = 00100101, botones = 100, leds = 00000000                 366
-switch = 00100101, botones = 000, leds = 11111111                 370
-switch = 11000110, botones = 001, leds = 11111111                 374
-switch = 00111111, botones = 010, leds = 11111111                 378
-switch = 00100101, botones = 100, leds = 11111111                 382
-switch = 00100101, botones = 000, leds = 11111111                 386
-switch = 11111010, botones = 001, leds = 11111111                 390
-switch = 01001001, botones = 010, leds = 11111111                 394
-switch = 00100100, botones = 100, leds = 11111111                 398
-switch = 00100100, botones = 000, leds = 01001000                 402
-switch = 11111101, botones = 001, leds = 01001000                 406
-switch = 01010001, botones = 010, leds = 01001000                 410
-switch = 00000010, botones = 100, leds = 01001000                 414
-switch = 00000010, botones = 000, leds = 00000000                 418
-switch = 00000111, botones = 001, leds = 00000000                 422
-switch = 10000000, botones = 010, leds = 00000000                 426
-switch = 00000010, botones = 100, leds = 00000000                 430
-switch = 00000010, botones = 000, leds = 00000000                 434
-switch = 11111111, botones = 001, leds = 00000000                 438
-switch = 01101100, botones = 010, leds = 00000000                 442
-switch = 00100000, botones = 100, leds = 00000000                 446
-switch = 00100000, botones = 000, leds = 01101011                 450
-switch = 00111110, botones = 001, leds = 01101011                 454
-switch = 01110110, botones = 010, leds = 01101011                 458
-switch = 00100110, botones = 100, leds = 01101011                 462
-switch = 00100110, botones = 000, leds = 01001000                 466
-switch = 00110110, botones = 001, leds = 01001000                 470
-switch = 10100001, botones = 010, leds = 01001000                 474
-switch = 00000011, botones = 100, leds = 01001000                 478
-switch = 00000011, botones = 000, leds = 00000000                 482
-switch = 00110011, botones = 001, leds = 00000000                 486
-switch = 10101101, botones = 010, leds = 00000000                 490
-switch = 00100110, botones = 100, leds = 00000000                 494
-switch = 00100110, botones = 000, leds = 10011110                 498
-switch = 01000010, botones = 001, leds = 10011110                 502
-switch = 10100101, botones = 010, leds = 10011110                 506
-switch = 00100101, botones = 100, leds = 10011110                 510
-switch = 00100101, botones = 000, leds = 11100111                 514
-switch = 01101010, botones = 001, leds = 11100111                 518
-switch = 11010110, botones = 010, leds = 11100111                 522
-switch = 00100010, botones = 100, leds = 11100111                 526
-switch = 00100010, botones = 000, leds = 10010100                 530
-switch = 01100010, botones = 001, leds = 10010100                 534
-switch = 11001110, botones = 010, leds = 10010100                 538
-switch = 00111111, botones = 100, leds = 10010100                 542
-switch = 00111111, botones = 000, leds = 00000000                 546
-switch = 10000011, botones = 001, leds = 00000000                 550
-switch = 11011001, botones = 010, leds = 00000000                 554
-switch = 00100100, botones = 100, leds = 00000000                 558
-switch = 00100100, botones = 000, leds = 10000001                 562
-switch = 10001011, botones = 001, leds = 10000001                 566
-switch = 11101000, botones = 010, leds = 10000001                 570
-switch = 00100111, botones = 100, leds = 10000001                 574
-switch = 00100111, botones = 000, leds = 00010100                 578
-switch = 10100011, botones = 001, leds = 00010100                 582
-switch = 00001111, botones = 010, leds = 00010100                 586
-switch = 00100010, botones = 100, leds = 00010100                 590
-switch = 00100010, botones = 000, leds = 10010100                 594
-switch = 10001111, botones = 001, leds = 10010100                 598
-switch = 00001000, botones = 010, leds = 10010100                 602
-switch = 00000011, botones = 100, leds = 10010100                 606
-switch = 00000011, botones = 000, leds = 11111111                 610
-switch = 10110000, botones = 001, leds = 11111111                 614
-switch = 00101001, botones = 010, leds = 11111111                 618
-switch = 00100110, botones = 100, leds = 11111111                 622
-switch = 00100110, botones = 000, leds = 10011001                 626
-switch = 10111000, botones = 001, leds = 10011001                 630
-switch = 00010101, botones = 010, leds = 10011001                 634
-switch = 00000010, botones = 100, leds = 10011001                 638
-switch = 00000010, botones = 000, leds = 00000000                 642
-switch = 11010000, botones = 001, leds = 00000000                 646
-switch = 00111011, botones = 010, leds = 00000000                 650
-switch = 00100010, botones = 100, leds = 00000000                 654
-switch = 00100010, botones = 000, leds = 10010101                 658
-switch = 11011111, botones = 001, leds = 10010101                 662
-switch = 01000001, botones = 010, leds = 10010101                 666
-switch = 00100101, botones = 100, leds = 10010101                 670
-switch = 00100101, botones = 000, leds = 11011111                 674
-switch = 11011100, botones = 001, leds = 11011111                 678
-switch = 01010110, botones = 010, leds = 11011111                 682
-switch = 00000011, botones = 100, leds = 11011111                 686
-switch = 00000011, botones = 000, leds = 11111111                 690
-switch = 11110001, botones = 001, leds = 11111111                 694
-switch = 01001110, botones = 010, leds = 11111111                 698
-switch = 00100111, botones = 100, leds = 11111111                 702
-switch = 00100111, botones = 000, leds = 00000000                 706
-switch = 00010011, botones = 001, leds = 00000000                 710
-switch = 01101000, botones = 010, leds = 00000000                 714
-switch = 00000010, botones = 100, leds = 00000000                 718
-switch = 00000010, botones = 000, leds = 00000000                 722
-switch = 00001011, botones = 001, leds = 00000000                 726
-switch = 10000101, botones = 010, leds = 00000000                 730
-switch = 00000010, botones = 100, leds = 00000000                 734
-switch = 00000010, botones = 000, leds = 00000000                 738
-switch = 00001001, botones = 001, leds = 00000000                 742
-switch = 10000010, botones = 010, leds = 00000000                 746
-switch = 00100101, botones = 100, leds = 00000000                 750
-switch = 00100101, botones = 000, leds = 10001011                 754
-switch = 00110100, botones = 001, leds = 10001011                 758
-switch = 10010111, botones = 010, leds = 10001011                 762
-switch = 00100110, botones = 100, leds = 10001011                 766
-switch = 00100110, botones = 000, leds = 10100011                 770
-switch = 01001100, botones = 001, leds = 10100011                 774
-switch = 10111000, botones = 010, leds = 10100011                 778
-switch = 00100000, botones = 100, leds = 10100011                 782
-switch = 00100000, botones = 000, leds = 00000100                 786
-switch = 01001010, botones = 001, leds = 00000100                 790
-switch = 10110001, botones = 010, leds = 00000100                 794
-switch = 00000011, botones = 100, leds = 00000100                 798
-switch = 00000011, botones = 000, leds = 00000000                 802
-switch = 10001000, botones = 001, leds = 00000000                 806
-switch = 10111011, botones = 010, leds = 00000000                 810
-switch = 00100111, botones = 100, leds = 00000000                 814
-switch = 00100111, botones = 000, leds = 01000100                 818
-switch = 10000001, botones = 001, leds = 01000100                 822
-switch = 11011010, botones = 010, leds = 01000100                 826
-switch = 00100101, botones = 100, leds = 01000100                 830
-switch = 00100101, botones = 000, leds = 11011011                 834
-switch = 10001011, botones = 001, leds = 11011011                 838
-switch = 11110111, botones = 010, leds = 11011011                 842
-switch = 00100010, botones = 100, leds = 11011011                 846
-switch = 00100010, botones = 000, leds = 10010100                 850
-switch = 01110111, botones = 001, leds = 10010100                 854
-switch = 11110000, botones = 010, leds = 10010100                 858
-switch = 00100110, botones = 100, leds = 10010100                 862
-switch = 00100110, botones = 000, leds = 10000111                 866
-switch = 10110100, botones = 001, leds = 10000111                 870
-switch = 00010001, botones = 010, leds = 10000111                 874
-switch = 00100100, botones = 100, leds = 10000111                 878
-switch = 00100100, botones = 000, leds = 00010000                 882
-switch = 10111010, botones = 001, leds = 00010000                 886
-switch = 00100110, botones = 010, leds = 00010000                 890
-switch = 00100101, botones = 100, leds = 00010000                 894
-switch = 00100101, botones = 000, leds = 10111110                 898
-switch = 10111000, botones = 001, leds = 10111110                 902
-switch = 00100011, botones = 010, leds = 10111110                 906
-switch = 00111111, botones = 100, leds = 10111110                 910
-switch = 00111111, botones = 000, leds = 00000000                 914
-switch = 11011001, botones = 001, leds = 00000000                 918
-switch = 00101001, botones = 010, leds = 00000000                 922
-switch = 00000011, botones = 100, leds = 00000000                 926
-switch = 00000011, botones = 000, leds = 11111111                 930
-switch = 11100001, botones = 001, leds = 11111111                 934
-switch = 01011010, botones = 010, leds = 11111111                 938
-switch = 00100110, botones = 100, leds = 11111111                 942
-switch = 00100110, botones = 000, leds = 10111011                 946
-switch = 11111001, botones = 001, leds = 10111011                 950
-switch = 01010010, botones = 010, leds = 10111011                 954
-switch = 00100101, botones = 100, leds = 10111011                 958
-switch = 00100101, botones = 000, leds = 11111011                 962
-switch = 11111011, botones = 001, leds = 11111011                 966
-switch = 01010000, botones = 010, leds = 11111011                 970
-switch = 00100111, botones = 100, leds = 11111011                 974
-switch = 00100111, botones = 000, leds = 00000100                 978
-switch = 00100010, botones = 001, leds = 00000100                 982
-switch = 01101101, botones = 010, leds = 00000100                 986
-switch = 00111111, botones = 100, leds = 00000100                 990
-switch = 00111111, botones = 000, leds = 00000000                 994
-switch = 00011010, botones = 001, leds = 00000000                 998
+a = 00000000, b = 00000000, op = 000000, out = 00000000                   0
+a = 01010101, b = 00010101, op = 000000, out = 00000000                   5
+a = 01010000, b = 01000100, op = 100110, out = 00010100                  15
+a = 01011101, b = 01010010, op = 000010, out = 00000000                  25
+a = 01101011, b = 01001000, op = 100100, out = 01001000                  35
+a = 10000011, b = 01010110, op = 100111, out = 00101000                  45
+a = 10001011, b = 01101001, op = 100100, out = 00001001                  55
+a = 10011110, b = 10001101, op = 100010, out = 00010001                  65
+a = 10011010, b = 10001001, op = 100100, out = 10001000                  75
+a = 10010100, b = 10000101, op = 111111, out = 00000000                  85
+a = 10111110, b = 10001001, op = 100000, out = 01000111                  95
+a = 10111111, b = 11000000, op = 100111, out = 00000000                 105
+a = 11000111, b = 10101010, op = 000010, out = 00000000                 115
+a = 11010101, b = 10100101, op = 000011, out = 11111111                 125
+a = 00000100, b = 11010111, op = 100100, out = 00000100                 135
+a = 00001100, b = 11101111, op = 100100, out = 00001100                 145
+a = 00001000, b = 11011000, op = 100000, out = 11100000                 155
+a = 00000011, b = 11110011, op = 000011, out = 00000000                 165
+a = 00011010, b = 11110111, op = 100000, out = 00010001                 175
+a = 00111111, b = 11110011, op = 100111, out = 00000000                 185
+a = 00101000, b = 00101010, op = 100111, out = 11010101                 195
+a = 00110110, b = 00010011, op = 111111, out = 00000000                 205
+a = 01010101, b = 00100110, op = 100110, out = 01110011                 215
+a = 01101101, b = 01000000, op = 111111, out = 00000000                 225
+a = 01101001, b = 01011000, op = 100111, out = 10000110                 235
+a = 01110001, b = 01011001, op = 111111, out = 00000000                 245
+a = 01110110, b = 01100111, op = 000010, out = 00000000                 255
+a = 10000100, b = 01100001, op = 100110, out = 11100101                 265
+a = 10010110, b = 01011100, op = 100000, out = 11110010                 275
+a = 10010010, b = 10001100, op = 111111, out = 00000000                 285
+a = 10110111, b = 10010100, op = 100101, out = 10110111                 295
+a = 10110010, b = 10100010, op = 100110, out = 00010000                 305
+a = 11000101, b = 10011101, op = 000010, out = 00000000                 315
+a = 11010011, b = 11000111, op = 100000, out = 10011010                 325
+a = 11100101, b = 11010101, op = 100111, out = 00001010                 335
+a = 11011111, b = 11000010, op = 100110, out = 00011101                 345
+a = 11011011, b = 11001010, op = 100111, out = 00100100                 355
+a = 00001010, b = 11011101, op = 100010, out = 00101101                 365
+a = 00010010, b = 11110101, op = 100101, out = 11110111                 375
+a = 00100000, b = 11110001, op = 100100, out = 00100000                 385
+a = 00001010, b = 00001011, op = 000010, out = 00000000                 395
+a = 01011000, b = 00001100, op = 100100, out = 00001000                 405
+a = 01010011, b = 00100100, op = 111111, out = 00000000                 415
+a = 01000001, b = 00111110, op = 100100, out = 00000000                 425
+a = 01001001, b = 01000011, op = 100101, out = 01001011                 435
+a = 01011100, b = 00101100, op = 100010, out = 00110000                 445
+a = 01110100, b = 01000111, op = 100010, out = 00101101                 455
+a = 10000010, b = 01011111, op = 000010, out = 00000000                 465
+a = 10001010, b = 01110001, op = 100101, out = 11111011                 475
+a = 10001010, b = 01111010, op = 100100, out = 00001010                 485
+a = 10110101, b = 01110101, op = 100010, out = 01000000                 495
+a = 10111101, b = 10001101, op = 000010, out = 00000000                 505
+a = 10101010, b = 10110001, op = 000011, out = 11111111                 515
+a = 10111101, b = 10101100, op = 100110, out = 00010001                 525
+a = 11000101, b = 10010110, op = 100111, out = 00101000                 535
+a = 11011101, b = 10100100, op = 100110, out = 01111001                 545
+a = 00000010, b = 11011111, op = 111111, out = 00000000                 555
+a = 11111000, b = 11101101, op = 100000, out = 11100101                 565
+a = 11110100, b = 11010111, op = 111111, out = 00000000                 575
+a = 00011110, b = 11011111, op = 100111, out = 00100000                 585
+a = 00100011, b = 00100000, op = 100010, out = 00000011                 595
+a = 00011001, b = 00001110, op = 000010, out = 00000000                 605
+a = 00100111, b = 00000100, op = 100110, out = 00100011                 615
+a = 00111111, b = 00010010, op = 100000, out = 01010001                 625
+a = 01011110, b = 00100100, op = 000011, out = 00000000                 635
+a = 01011010, b = 01001001, op = 100010, out = 00010001                 645
+a = 01010101, b = 01000101, op = 000011, out = 00000000                 655
+a = 01110000, b = 01010111, op = 000010, out = 00000000                 665
+a = 10011111, b = 01011111, op = 111111, out = 00000000                 675
+a = 01111010, b = 01111100, op = 100010, out = 11111110                 685
+a = 10010101, b = 01100101, op = 111111, out = 00000000                 695
+a = 10010000, b = 01111000, op = 100000, out = 00001000                 705
+a = 10111111, b = 10010010, op = 100010, out = 00101101                 715
+a = 11001000, b = 10101010, op = 100101, out = 11101010                 725
+a = 11000011, b = 10010100, op = 100110, out = 01010111                 735
+a = 10111111, b = 11000101, op = 000010, out = 00000000                 745
+a = 11100100, b = 11000001, op = 100110, out = 00100101                 755
+a = 11111010, b = 10111100, op = 100101, out = 11111110                 765
+a = 11100100, b = 11010011, op = 000011, out = 11111111                 775
+a = 00001001, b = 11100110, op = 100101, out = 11101111                 785
+a = 00010001, b = 11100001, op = 100110, out = 11110000                 795
+Test Pass
+$finish called at time : 805 ns : File "C:/Vivado/TP1/TP1.srcs/sim_1/new/ALU_tb.v" Line 72
